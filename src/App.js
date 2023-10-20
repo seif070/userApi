@@ -11,7 +11,6 @@ function App() {
           alt="white palace ceiling view"
         />
         <div className="blog-content">
-          <p className="blog-label">Technology</p>
           <h1>Lorem ipsum dolor sit amet.</h1>
           <p>
             Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatem
@@ -22,7 +21,6 @@ function App() {
               src="https://fastly.picsum.photos/id/821/600/600.jpg?hmac=dW9EOnYxt9yoVvUndFExUXzPNEYbMjpYcKj3Au5zEWQ"
               alt="author portrait"
             />
-            <p>by Jeanne Doe</p>
           </div>
         </div>
       </section>
