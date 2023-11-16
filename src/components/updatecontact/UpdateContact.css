@@ -1,0 +1,168 @@
+.bodyUpdateContact {
+    background-color: #360c5e;
+}
+.container1 {
+    float: left;
+    background-color: #360c5e;
+    display: bock;
+    width: 40%;
+    height: 650px;
+    margin: -9px 0px 0px -9px;
+    color: rgba(214, 185, 185, 0.822);
+    font: normal bold 20px 'Dancing Script';
+}
+img {
+    hieght: 100px;
+    width: 110px;
+}
+img:hover {
+    transform: translateZ(100px);
+}
+.container2 {
+    float: right;
+    background-image: url('https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/122332971/original/109814d371cda20a0bf2bfcd0a6e48eab75cf6dc/do-php-programing-for-your-website.jpg');
+    display: block;
+    width: 60%;
+    height: 770px;
+    margin: -9px -9px 0px 0px;
+    font: normal bold 20px 'Dancing Script';
+    color: rgba(214, 185, 185, 0.822);
+}
+.logo {
+    padding: 20px;
+    border: 5px solid black;
+    display: inline-block;
+    background-color: #525252;
+    position: static;
+    margin: 40px 30px 0px 30px;
+}
+.code {
+    text-decoration: none;
+    color: black;
+    font-size: 60px;
+    max-height: 100px;
+}
+.code:active {
+    text-decoration: none;
+    color: #000;
+    font-size: 60px;
+    max-height: 100px;
+    text-decoration: line-through;
+}
+.formulair {
+    padding: 20px;
+    display: block;
+    margin: 70px 20px;
+}
+.for {
+    font-size: 30px;
+}
+.case {
+    margin-bottom: 10px;
+    font-size: 25px;
+    padding: 5px;
+    background-color: #7d2ec7;
+    color: whitesmoke;
+    border: 2px solid whitesmoke;
+    border-radius: 5px;
+    transition: all 0.5s;
+}
+.case:hover {
+    margin-bottom: 10px;
+    font-size: 25px;
+    padding: 5px;
+    background-color: rgba(142, 27, 219, 0.925);
+    color: black;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.or {
+    display: flex;
+    margin: 10px 0px;
+}
+.PassForgetn {
+    margin: 0px 0px 10px 50px;
+    transition: all 0.5s;
+    cursor: pointer;
+}
+.PassForgetn {
+    margin: 0px 0px 10px 50px;
+}
+.signIn {
+    font-size: x-large;
+    font-weight: bold;
+    background-color: orangered;
+    color: #091a18;
+    border: 0px solid black;
+    width: 300px;
+    height: 30px;
+    border-radius: 5px;
+    margin: 40px 0px 30px 30px;
+    transition: all 0.5s;
+    cursor: pointer;
+}
+.signIn:hover {
+    font-size: x-large;
+    font-weight: bold;
+    color: #4951bb;
+    background-color: #aca3a3;
+    border: 0px solid black;
+    width: 300px;
+    height: 30px;
+    border-radius: 5px;
+    margin: 40px 0px 30px 30px;
+}
+.pass {
+    padding: 6px;
+    text-decoration: none;
+    color: #2001d1;
+    text-align: center;
+    transition: all 0.5s;
+    cursor: pointer;
+}
+.pass:hover {
+    padding: 6px;
+    text-decoration: underline;
+    color: #32f5f5;
+}
+.small {
+    padding: 230px 0px 200px 80px;
+    color: #4813ac;
+    font: normal bold 40px 'Dancing Script';
+    text-decoration: underline;
+}
+.button {
+    font-size: 40px;
+    font-weight: bold;
+    background-color: #534e4e;
+    color: #000;
+    border: 2px solid black;
+    width: 600px;
+    height: 60px;
+    border-radius: 5px;
+    margin: 30px 30px 30px 0px;
+    transition: all 0.5s;
+    cursor: pointer;
+}
+.button:hover {
+    font-size: 40px;
+    font-weight: bold;
+    background-color: black;
+    color: #534e4e;
+    border: 2px solid #534e4e;
+    width: 600px;
+    height: 60px;
+    border-radius: 5px;
+    margin: 30px 30px 30px 0px;
+}
+.button:active {
+    font-size: 40px;
+    font-weight: bold;
+    background-color: rgba(174, 144, 221, 0.952);
+    color: #c0b3d4;
+    border: 2px solid rgba(212, 179, 179, 0.315);
+    width: 600px;
+    height: 60px;
+    border-radius: 5px;
+    margin: 30px 30px 30px 0px;
+}
